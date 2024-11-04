@@ -14,8 +14,8 @@
 
 ## Languages ;
 
-- <img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" /> PYTHON
-- <img src="https://skillicons.dev/icons?i=c" alt="C++" width="30" /> C++
-- <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="30" /> HTML
-- <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="30" /> CSS
+- <img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" /> **PYTHON**
+- <img src="https://skillicons.dev/icons?i=c" alt="C++" width="30" /> **C++**
+- <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="30" /> **HTML**
+- <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="30" /> **CSS**
 
