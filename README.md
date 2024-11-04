@@ -46,5 +46,7 @@
 > [WEBSITE 1](http://109.176.17.107:20082) </br>
 > [WEBSITE 2](https://m1ndfr.github.io/m1ndfr-portofolio-website/)
 
+<img src="https://raw.githubusercontent.com/m1ndfr/m1ndfr/output/snake.svg" alt="Snake animation" />
+
 </br>
 <img align="left" src="https://profile-counter.glitch.me/m1ndfr/count.svg?"/> <- VISITOR COUNT
