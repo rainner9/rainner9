@@ -1,5 +1,6 @@
 <p align="left">
   <img src="hello.webp" alt="Hello" style="width: 150px;">
+  **Hi there 👋🏻, I'm Gery, aka m1ndfreak, from Indonesia. I enjoy working on projects when I'm in the mood 😁. Hope you all enjoy my work! 🤗.**
 </p>
 
 **Hi there 👋🏻, I'm Gery, aka m1ndfreak, from Indonesia. I enjoy working on projects when I'm in the mood 😁. Hope you all enjoy my work! 🤗.**
