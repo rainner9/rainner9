@@ -47,4 +47,4 @@
 > [WEBSITE 2](https://m1ndfr.github.io/m1ndfr-portofolio-website/)
 
 </br>
-<img align="left" src="https://profile-counter.glitch.me/m1ndfr/count.svg?"  /> ➡︎ VISITOR COUNT
+<img align="left" src="https://profile-counter.glitch.me/m1ndfr/count.svg?"/>➡︎ VISITOR COUNT
