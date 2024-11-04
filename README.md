@@ -8,7 +8,11 @@
 </p>
 
 **Software:** 
-![Visual Studio Code](https://simpleicons.org/icons/visualstudio.svg) ![Visual Studio](https://simpleicons.org/icons/visualstudio.svg)
+<img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="30" /> 
+<img src="https://skillicons.dev/icons?i=vs" alt="Visual Studio" width="30" />
 
 **Languages:** 
-![Python](https://simpleicons.org/icons/python.svg) ![C++](https://simpleicons.org/icons/cplusplus.svg) ![HTML](https://simpleicons.org/icons/html5.svg) ![CSS](https://simpleicons.org/icons/css3.svg)
+<img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" /> 
+<img src="https://skillicons.dev/icons?i=c" alt="C++" width="30" /> 
+<img src="https://skillicons.dev/icons?i=html" alt="HTML" width="30" /> 
+<img src="https://skillicons.dev/icons?i=css" alt="CSS" width="30" />
