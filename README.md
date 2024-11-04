@@ -6,7 +6,7 @@
   <strong>💻 Tech Stack</strong>
 </p>
 </br>
-**Software:**</br> 
+**Software:** </br> 
 <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="30" /> 
 <img src="https://skillicons.dev/icons?i=vs" alt="Visual Studio" width="30" />
 
