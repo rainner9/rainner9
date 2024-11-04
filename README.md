@@ -47,6 +47,6 @@
 > [WEBSITE 2](https://m1ndfr.github.io/m1ndfr-portofolio-website/)
 
 <img src="https://raw.githubusercontent.com/m1ndfr/m1ndfr/output/snake.svg" alt="Snake animation" />
-
+︾︾︾
 </br>
-<img align="left" src="https://profile-counter.glitch.me/m1ndfr/count.svg?"/> <- VISITOR COUNT
+<img align="left" src="https://profile-counter.glitch.me/m1ndfr/count.svg?"/> 
