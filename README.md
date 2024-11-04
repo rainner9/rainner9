@@ -8,11 +8,11 @@
   # 💻 Tech Stack
 </p>
 
-**Software:** 
+## Software ;
 <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="30" /> </br>
 <img src="https://skillicons.dev/icons?i=vs" alt="Visual Studio" width="30" />
 
-**Languages:** 
+## Languages ;
 <img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" /> 
 <img src="https://skillicons.dev/icons?i=c" alt="C++" width="30" /> 
 <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="30" /> 
