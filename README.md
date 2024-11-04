@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <img src="hello.webp" alt="Hello" style="width: 150px; height: 150px; object-fit: cover;">
 </p>
 
