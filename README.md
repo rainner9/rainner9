@@ -43,5 +43,5 @@
   🔗 LINK
 </h2>
 
-- [WEBSITE 1](109.176.17.107:20082)
-- [WEBSITE 2](109.176.17.107:20082)
+> [WEBSITE 1](109.176.17.107:20082)
+> [WEBSITE 2](https://m1ndfr.github.io/m1ndfr-portofolio-website/)
