@@ -5,7 +5,7 @@
 **Hi there 👋🏻, I'm Gery, aka m1ndfreak, from Indonesia. I enjoy working on projects when I'm in the mood 😁. Hope you all enjoy my work! 🤗.**
 
 <h2 align="center">
-  💻 Techs
+  💻 TECHS
 </h2>
 
 **Operating System :** 
@@ -27,3 +27,7 @@
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="30" height="40" /> 
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="30" height="40" />
 </p>
+
+<h2 align="center">
+  ⚡ STATS
+</h2>
