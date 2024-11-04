@@ -5,7 +5,7 @@
 **Hi there 👋🏻, I'm Gery, aka m1ndfreak, from Indonesia. I enjoy working on projects when I'm in the mood 😁. Hope you all enjoy my work! 🤗.**
 
 <h2 align="center">
-  💻 Tech Stack
+  💻 Techs
 </h2>
 
 **Software :** 
