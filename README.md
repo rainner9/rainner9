@@ -4,17 +4,17 @@
 
 **Hi there 👋🏻, I'm Gery, aka m1ndfreak, from Indonesia. I enjoy working on projects when I'm in the mood 😁. Hope you all enjoy my work! 🤗.**
 
-<p align="center">
-  # 💻 Tech Stack
-</p>
+<h2 align="center">
+  💻 Tech Stack
+</h2>
 
-**Software:** 
+**Software :** 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="30" /> 
   <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="30" />
 </p>
 
-**Languages:** 
+**Languages :** 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" /> 
   <img src="https://skillicons.dev/icons?i=c" alt="C++" width="30" /> 
