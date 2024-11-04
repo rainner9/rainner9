@@ -48,7 +48,7 @@
 > [WEBSITE 2](https://m1ndfr.github.io/m1ndfr-portofolio-website/)
 
 &nbsp;<div align="left">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/2sqedz98t0t3e2vtbvo2646vs)
+  [![Spotify](novatorem-one-cyan.vercel.app/api/spotify)](https://open.spotify.com/user/kdmapper.exe)
 </div
 
 <img src="https://raw.githubusercontent.com/m1ndfr/m1ndfr/output/snake.svg" alt="Snake animation" />
