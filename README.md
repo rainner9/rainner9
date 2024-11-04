@@ -47,7 +47,7 @@
 > [WEBSITE 1](http://109.176.17.107:20082) </br>
 > [WEBSITE 2](https://m1ndfr.github.io/m1ndfr-portofolio-website/)
 
-<div align="left">
+&nbsp;<div align="left">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/2sqedz98t0t3e2vtbvo2646vs)
 </div
 
