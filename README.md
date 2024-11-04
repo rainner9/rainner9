@@ -40,7 +40,7 @@
 </div>
 
 <h2 align="center">
-  🔗 LINK
+  ❓ RANDOM
 </h2>
 
 > [WEBSITE 1](http://109.176.17.107:20082) </br>
