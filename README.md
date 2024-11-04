@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>💻 Tech Stack</strong>
+  <strong># 💻 Tech Stack</strong>
 </p>
 
 **Hi there 👋🏻, I'm Gery, aka m1ndfreak, from Indonesia. I enjoy working on projects when I'm in the mood 😁. Hope you all enjoy my work! 🤗.**
