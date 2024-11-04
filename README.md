@@ -9,13 +9,13 @@
 </p>
 
 **Software:** 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="30" /> 
   <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="30" />
 </p>
 
 **Languages:** 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" /> 
   <img src="https://skillicons.dev/icons?i=c" alt="C++" width="30" /> 
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="30" /> 
