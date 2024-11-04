@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hello.webp" alt="Hello" style="width: 150px; height: 150px; object-fit: cover;">
+  <img src="hello.webp" alt="Hello" style="width: 100%; height: 150px; object-fit: cover;">
 </p>
 
 **Hi there 👋🏻, I'm Gery, aka m1ndfreak, from Indonesia. I enjoy working on projects when I'm in the mood 😁. Hope you all enjoy my work! 🤗.**
