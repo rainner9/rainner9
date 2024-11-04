@@ -48,10 +48,8 @@
 > [WEBSITE 2](https://m1ndfr.github.io/m1ndfr-portofolio-website/)
 
 <div align="left">
-  <img src="https://novatorem-one-cyan.vercel.app?" alt="Widget with the current Spotify song"  />
+  <img src="novatorem-one-cyan.vercel.app?" alt="Widget with the current Spotify song"  />
 </div>
-
-###
 
 <img src="https://raw.githubusercontent.com/m1ndfr/m1ndfr/output/snake.svg" alt="Snake animation" />
 
