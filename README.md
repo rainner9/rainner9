@@ -8,14 +8,16 @@
   # 💻 Tech Stack
 </p>
 
-## Software ;
-<img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="30" /> </br>
-<img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="30" />
+**Software:** 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="30" /> 
+  <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="30" />
+</p>
 
-## Languages ;
-
-- <img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" /> **PYTHON**
-- <img src="https://skillicons.dev/icons?i=c" alt="C++" width="30" /> **C++**
-- <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="30" /> **HTML**
-- <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="30" /> **CSS**
-
+**Languages:** 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" /> 
+  <img src="https://skillicons.dev/icons?i=c" alt="C++" width="30" /> 
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="30" /> 
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="30" />
+</p>
