@@ -8,6 +8,12 @@
   💻 Techs
 </h2>
 
+**OS :** 
+<p align="left">
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+</p>
+
 **Software :** 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="30" /> 
