@@ -23,7 +23,7 @@
 **Languages :** 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" /> 
-  <img src="https://skillicons.dev/icons?i=c" alt="C++" width="30" /> 
+  <img src="https://skillicons.dev/icons?i=cplusplus" alt="C++" width="30" /> 
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="30" /> 
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="30" />
 </p>
