@@ -2,11 +2,12 @@
   <img src="hello.webp" alt="Hello" style="width: 100%; max-width: 400px;">
 </p>
 
-<p align="center">
-  # 💻 Tech Stack
-</p>
 
 **Hi there 👋🏻, I'm Gery, aka m1ndfreak, from Indonesia. I enjoy working on projects when I'm in the mood 😁. Hope you all enjoy my work! 🤗.**
+
+<p align="center">
+  <strong>💻 Tech Stack</strong>
+</p>
 
 **Software:** 
 <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="30" /> 
