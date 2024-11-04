@@ -47,8 +47,8 @@
 > [WEBSITE 1](http://109.176.17.107:20082) </br>
 > [WEBSITE 2](https://m1ndfr.github.io/m1ndfr-portofolio-website/)
 
-<div align="left">
-  <img src="novatorem-one-cyan.vercel.app?" alt="Widget with the current Spotify song"  />
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem-one-cyan.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/kdmapper.exe)
 </div>
 
 <img src="https://raw.githubusercontent.com/m1ndfr/m1ndfr/output/snake.svg" alt="Snake animation" />
