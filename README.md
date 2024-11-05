@@ -41,7 +41,7 @@
 </div>
 
 <h2 align="center">
-  📚 Activity
+  📚 ACTIVITY
 </h2>
 
 <div align="left">
