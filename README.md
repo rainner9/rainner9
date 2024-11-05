@@ -50,13 +50,7 @@
   </a>
 </div>
 
-
-<a href="https://m1nfr.pythonanywhere.com/link">
-  <img
-    src="https://m1nfr.pythonanywhere.com"
-    alt="Current Spotify Song"
-  />
-</a>
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:id)
 
 <h2 align="center">
   ❓ RANDOM
