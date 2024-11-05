@@ -50,7 +50,7 @@
   </a>
 </div>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:id)
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/746523440608968799)
 
 <h2 align="center">
   ❓ RANDOM
