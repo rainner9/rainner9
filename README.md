@@ -44,6 +44,13 @@
   📚 Activity
 </h2>
 
+<div align="left">
+  <a href="https://open.spotify.com/user/kdmapper.exe">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=2sqedz98t0t3e2vtbvo2646vs&unique={true|1|on|yes}" alt="Spotify recently played"  />
+  </a>
+</div>
+
+
 <a href="https://m1nfr.pythonanywhere.com/link">
   <img
     src="https://m1nfr.pythonanywhere.com"
