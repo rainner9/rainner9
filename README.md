@@ -41,11 +41,8 @@
 </div>
 
 <h2 align="center">
-  ❓ RANDOM
+  📚 Activity
 </h2>
-
-> [WEBSITE 1](http://109.176.17.107:20082) </br>
-> [WEBSITE 2](https://m1ndfr.github.io/m1ndfr-portofolio-website/)
 
 <a href="https://m1nfr.pythonanywhere.com/link">
   <img
@@ -53,6 +50,13 @@
     alt="Current Spotify Song"
   />
 </a>
+
+<h2 align="center">
+  ❓ RANDOM
+</h2>
+
+> [WEBSITE 1](http://109.176.17.107:20082) </br>
+> [WEBSITE 2](https://m1ndfr.github.io/m1ndfr-portofolio-website/)
 
 <img src="https://raw.githubusercontent.com/m1ndfr/m1ndfr/output/snake.svg" alt="Snake animation" />
 
