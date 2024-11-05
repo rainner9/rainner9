@@ -9,6 +9,8 @@
   💻 TECHS
 </h2>
 
+- **Bot Developer**
+
 **Operating System :** 
 <p align="left">
   <img width="12" />
