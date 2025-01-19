@@ -3,31 +3,6 @@
 </p>
 
 ---
-<h2 align="center">
-  💻 TECHS
-</h2>
-
-- **Bot Developer**
-
-**Operating System :** 
-<p align="left">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-</p>
-
-**Software :** 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="30" height="40" /> 
-  <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="30" height="40" />
-</p>
-
-**Languages :** 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" height="40" /> 
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="30" height="40" /> 
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="30" height="40" /> 
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="30" height="40" />
-</p>
 
 <h2 align="center">
   ⚡ STATS
