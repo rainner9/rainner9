@@ -12,13 +12,17 @@
 ～ Hello 👋🏻, I am Gery 
 </h2>
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="Assets/mythikore-anime-girl.gif" alt="Hello" style="object-fit: cover; width: 200px; border-radius: 10px;"/>
-  <p>
-    I am a bot developer, but currently, I am learning software development and I believe I am more suited for back-end development 😁. 
-    Not only am I a programmer, but I also enjoy playing FPS games and random games for a refreshing break from FPS games.
-  </p>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="Assets/mythikore-anime-girl.gif" alt="Hello" style="object-fit: cover; width: 200px; border-radius: 10px;"/>
+    </td>
+    <td>
+      I am a bot developer, but currently, I am learning software development and I believe I am more suited for back-end development 😁. 
+      Not only am I a programmer, but I also enjoy playing FPS games and random games for a refreshing break from FPS games.
+    </td>
+  </tr>
+</table>
 
 <h2 align="left">
 ～ ⚡ STATS
