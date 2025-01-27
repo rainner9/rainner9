@@ -48,8 +48,11 @@ I am a bot developer, but currently, I am learning software development and I be
 </div>
 
 ---
+<br>
 
-VISITOR COUNT</br>
-︾︾︾︾︾︾︾︾
-</br>
-<img align="left" src="https://profile-counter.glitch.me/m1ndfr/count.svg?"/> 
+<h1 align="center">
+VISITOR
+<br>
+
+◟<img align="cener" src="https://profile-counter.glitch.me/m1ndfr/count.svg?"/> ◞
+</h1>
