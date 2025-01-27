@@ -1,45 +1,54 @@
+<h1 align="center">
+◜𝗯𝗮𝗰𝗸-𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿◝
+</h1>
+
 <p align="center">
-  <img src="code.gif" alt="Hello" style="width: 100%; height: 150px; object-fit: cover; margin-top: 50px;">
+  <img src="Assets/code.gif" alt="Hello" style="object-fit: cover; margin-top: 50px;">
 </p>
 
 ---
 
-<h2 align="center">
-  ⚡ STATS
+<h2 align="left">
+～ Hello 👋🏻, I am Gery 
 </h2>
 
-<br clear="both">
+<br> 
+I am a bot developer, but currently, I am learning software development and I believe I am more suited for back-end development 😁. Not only am I a programmer, but I also enjoy playing FPS games and random games for a refreshing break from FPS games.
+</br> 
 
-![](https://github-readme-stats.vercel.app/api?username=m1ndfr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=m1ndfr&theme=tokyonight&hide_border=false)<br/>
-![](https://github-contributor-stats.vercel.app/api?username=m1ndfr&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=m1ndfr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-profile-trophy.vercel.app/?username=m1ndfr&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-<h2 align="center">
-  📚 ACTIVITY
+<h2 align="left">
+～ ⚡ STATS
 </h2>
 
-<div align="left">
-  <a href="https://open.spotify.com/user/kdmapper.exe">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=2sqedz98t0t3e2vtbvo2646vs&unique={true|1|on|yes}" alt="Spotify recently played"  />
-  </a>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainner9&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="border: 2px solid #6366F1; border-radius: 10px; height: 200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rainner9&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" style="border: 2px solid #6366F1; border-radius: 10px; height: 200px;"/>
 </div>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/746523440608968799)](https://discord.com/users/746523440608968799)
-
-<h2 align="center">
-  ❓ RANDOM
+<h2 align="left">
+～ 📚 ACTIVITY
 </h2>
 
-> [WEBSITE 1](http://109.176.17.107:20082) </br>
-> [WEBSITE 2](https://m1ndfr.github.io/m1ndfr-portofolio-website/)
+<div style="align-items: center; justify-content: space-between;">
+  <div style="border: 2px solid #6366F1; border-radius: 10px; padding: 10px;">
+    <a href="https://open.spotify.com/user/kdmapper.exe">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=2sqedz98t0t3e2vtbvo2646vs&unique={true|1|on|yes}" alt="Spotify recently played" style="border-radius: 10px;" />
+    </a>
+  </div>
+  
+  <div style="border: 2px solid #6366F1; border-radius: 10px; padding: 10px;">
+    <a href="https://discord.com/users/746523440608968799">
+      <img src="https://lanyard.cnrad.dev/api/746523440608968799" alt="Discord Presence" style="border-radius: 10px;" />
+    </a>
+  </div>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<img src="https://raw.githubusercontent.com/m1ndfr/m1ndfr/output/snake.svg" alt="Snake animation" />
+  <div style="border: 2px solid #6366F1; border-radius: 10px; padding: 10px;">
+    <img src="https://raw.githubusercontent.com/m1ndfr/m1ndfr/output/snake.svg" alt="Snake animation" />
+  </div>
+</div>
 
 ---
+
 VISITOR COUNT</br>
 ︾︾︾︾︾︾︾︾
 </br>
