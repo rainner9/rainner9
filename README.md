@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hello.webp" alt="Hello" style="width: 100%; height: 150px; object-fit: cover; margin-top: 50px;">
+  <img src="code.gif" alt="Hello" style="width: 100%; height: 150px; object-fit: cover; margin-top: 50px;">
 </p>
 
 ---
