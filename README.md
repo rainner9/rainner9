@@ -18,8 +18,7 @@
       <img src="Assets/mythikore-anime-girl.gif" alt="Hello" style="object-fit: cover; width: 200px; border-radius: 10px;"/>
     </td>
     <td>
-      I am a bot developer, but currently, I am learning software development and I believe I am more suited for back-end development 😁. 
-      Not only am I a programmer, but I also enjoy playing FPS games and random games for a refreshing break from FPS games.
+      𝗜 𝗮𝗺 𝗮 𝗯𝗼𝘁 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿, 𝗯𝘂𝘁 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆, 𝗜 𝗮𝗺 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗮𝗻𝗱 𝗜 𝗯𝗲𝗹𝗶𝗲𝘃𝗲 𝗜 𝗮𝗺 𝗺𝗼𝗿𝗲 𝘀𝘂𝗶𝘁𝗲𝗱 𝗳𝗼𝗿 𝗯𝗮𝗰𝗸-𝗲𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 😁.        𝗡𝗼𝘁 𝗼𝗻𝗹𝘆 𝗮𝗺 𝗜 𝗮 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿, 𝗯𝘂𝘁 𝗜 𝗮𝗹𝘀𝗼 𝗲𝗻𝗷𝗼𝘆 𝗽𝗹𝗮𝘆𝗶𝗻𝗴 𝗙𝗣𝗦 𝗴𝗮𝗺𝗲𝘀 𝗮𝗻𝗱 𝗿𝗮𝗻𝗱𝗼𝗺 𝗴𝗮𝗺𝗲𝘀 𝗳𝗼𝗿 𝗮 𝗿𝗲𝗳𝗿𝗲𝘀𝗵𝗶𝗻𝗴 𝗯𝗿𝗲𝗮𝗸 𝗳𝗿𝗼𝗺 𝗙𝗣𝗦 𝗴𝗮𝗺𝗲𝘀.
     </td>
   </tr>
 </table>
