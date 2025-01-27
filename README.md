@@ -38,19 +38,19 @@
 </h2>
 
 <div style="align-items: center; justify-content: space-between;">
-  <div style="border: 2px solid #6366F1; border-radius: 10px; padding: 10px;">
+  <div style="padding: 10px;">
     <a href="https://open.spotify.com/user/kdmapper.exe">
       <img src="https://spotify-recently-played-readme.vercel.app/api?user=2sqedz98t0t3e2vtbvo2646vs&unique={true|1|on|yes}" alt="Spotify recently played" style="border-radius: 10px;" />
     </a>
   </div>
   
-  <div style="border: 2px solid #6366F1; border-radius: 10px; padding: 10px;">
+  <div style="padding: 10px;">
     <a href="https://discord.com/users/746523440608968799">
       <img src="https://lanyard.cnrad.dev/api/746523440608968799" alt="Discord Presence" style="border-radius: 10px;" />
     </a>
   </div>
 
-  <div style="border: 2px solid #6366F1; border-radius: 10px; padding: 10px;">
+  <div style="padding: 10px;">
     <img src="https://raw.githubusercontent.com/m1ndfr/m1ndfr/output/snake.svg" alt="Snake animation" />
   </div>
 </div>
